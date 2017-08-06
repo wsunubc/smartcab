@@ -2,7 +2,7 @@
 
 Reinforcement Learning (Q Learning) Project of Udacity Machine Learning Engineer Nanodegree Program
 
-Applied reinforcement learning to build a simulated vehicle navigation agent. Modeled a complex control problem. Designed a scheme to automatically learn an optimal driving strategy based on rewards and penalties.
+Applied reinforcement learning to build a simulated self-driving car. Used Q Learning to automatically learn an optimal strategy based on rewards and penalties.
 
 
 ## Project Overview
